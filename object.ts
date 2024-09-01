@@ -1,9 +1,9 @@
-let person2 = {
+let person3 = {
     userName:"Vignesh",
     age:30,
     married:true
 }
-console.log(person2.userName);
+console.log(person3.userName);
 
 type StudentDetails = {
     userName:string,
